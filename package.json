@@ -1,0 +1,31 @@
+{
+  "name": "@ideaconsult/intern-00001",
+  "version": "0.0.1",
+  "description": "IDEA internship 00001",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ideaconsult/intern-00001"
+  },
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "author": "IDEAconsult",
+  "contributors": [
+    {
+      "name": "Desislava Ruseva",
+      "email": "druseva_20118006@unwe.bg"
+    },
+    {
+      "name": "Luchesar Iliev",
+      "email": "luchesar.iliev@gmail.com",
+      "url": "https://github.com/kerberizer"
+    }
+  ],
+  "license": "MIT",
+  "devDependencies": {
+    "chromedriver": "*",
+    "mocha": "^10.2.0",
+    "selenium-webdriver": "^4.14.0"
+  }
+}
